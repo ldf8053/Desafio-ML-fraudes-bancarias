@@ -83,8 +83,9 @@ Aplicação de SHAP para compreensão da influência das variáveis nas previsõ
 fraud-detection-bank-transactions/
 │
 ├── notebooks/
-├── src/
-├── docs/
+├── docs em py/
+├── requirements.txt
+├── .gitignore
 └── README.md
 ```
 
