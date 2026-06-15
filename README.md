@@ -80,7 +80,7 @@ Aplicação de SHAP para compreensão da influência das variáveis nas previsõ
 ## Estrutura do Projeto
 
 ```text
-fraud-detection-bank-transactions/
+Detecção de fraudes bancárias/
 │
 ├── notebooks/
 ├── docs em py/
